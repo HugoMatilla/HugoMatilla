@@ -1,4 +1,10 @@
-### Hi there 👋
+#👋 Hi, I am Hugo and I am a software developer
+##💻 I mainly do Android in Kotlin
+
+##🧪 The rest of the time I like to experiment and learn different technologies.
+
+##🏗 I have built projects in Swift for iOS, and in Node, MongoDB, Vue and React Native.
+
 
 <!--
 **HugoMatilla/HugoMatilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
