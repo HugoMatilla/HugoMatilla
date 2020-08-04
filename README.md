@@ -1,9 +1,10 @@
-#👋 Hi, I am Hugo and I am a software developer
-##💻 I mainly do Android in Kotlin
+# 👋 Hi, I am Hugo and I am a software developer
 
-##🧪 The rest of the time I like to experiment and learn different technologies.
+## 💻 I mainly do Android in Kotlin
 
-##🏗 I have built projects in Swift for iOS, and in Node, MongoDB, Vue and React Native.
+## 🧪 The rest of the time I like to experiment and learn different technologies.
+
+## 🏗 I have built projects in Swift for iOS, and in Node, MongoDB, Vue and React Native.
 
 
 <!--
