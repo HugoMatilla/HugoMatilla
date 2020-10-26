@@ -4,11 +4,11 @@
 
 ### 🧪 I like to do pet projects and try new things
 
-### 📝 I write Android Articles hugomatilla.com/blog
+### 📝 I write [Android Articles](hugomatilla.com/blog)
 
 ### 🏗 I have built projects in Swift for iOS, Node, MongoDB, Vue and React Native.
 
-You can find more about me at hugomatilla.com
+### 👀 You can find more about me at [hugomatilla.com](hugomatilla.com)
 
 
 <!--
