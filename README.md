@@ -2,7 +2,7 @@
 
 ### 💻 I mainly do Android in Kotlin
 
-### 🧪 I like to do pet projects and try new things
+### 🧪 I like to do develop pet projects and try new things
 
 ### 📝 I write [Android Articles](hugomatilla.com/blog)
 
