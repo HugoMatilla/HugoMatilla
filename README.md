@@ -1,10 +1,14 @@
 # 👋 Hi, I am Hugo and I am a software developer
 
-## 💻 I mainly do Android in Kotlin
+### 💻 I mainly do Android in Kotlin
 
-## 🧪 The rest of the time I like to experiment and learn different technologies.
+### 🧪 I like to do pet projects and try new things
 
-## 🏗 I have built projects in Swift for iOS, and in Node, MongoDB, Vue and React Native.
+### 📝 I write Android Articles hugomatilla.com/blog
+
+### 🏗 I have built projects in Swift for iOS, Node, MongoDB, Vue and React Native.
+
+You can find more about me at hugomatilla.com
 
 
 <!--
