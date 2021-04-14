@@ -2,11 +2,11 @@
 
 ### 💻 I mainly do Android in Kotlin
 
-### 🧪 I like to do develop pet projects and try new things
+### 🧪 Develop pet projects and try new things is one of my hobbies.
 
-### 📝 I write [Android Articles](https://hugomatilla.com/blog)
+### 📝 Here are my  [Android Articles](https://hugomatilla.com/blog)
 
-### 🏗 I have built projects in Swift for iOS, Node, MongoDB, Vue and React Native.
+### 🏗 I build projects in Swift for iOS, Node, MongoDB, Vue and React Native .
 
 ### 👀 You can find more about me at [hugomatilla.com](https://hugomatilla.com)
 
